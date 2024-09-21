@@ -12,4 +12,4 @@ Ce projet vise à présenter mes compétences, mes projets et mon expérience pr
 - Bootstrap
 
 ##
-[Live Demo](https://mhss-dev.github.io/portfolio-vue/)
+[Live Demo](https://mhss-dev.github.io/portfolio/)
